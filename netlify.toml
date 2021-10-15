@@ -10,5 +10,5 @@
   command = "yarn build:preview"
 
 [[redirects]]
-  from = "/old-path"
-  to = "/new-path"
+  from = "/old-cat"
+  to = "/new-cat?fluff=extreme"
